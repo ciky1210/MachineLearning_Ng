@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T02:50:47.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="7emSri60aVsMVnqonJeO" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T06:33:03.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="NAWdABZOc4F62Id2FOeP" version="14.4.3" type="github">
   <diagram id="4_XSI-4u797SFjCIBZUm" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="xufA07_AUJWJ9oQqkF4s-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;参考文献、gi号&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xufA07_AUJWJ9oQqkF4s-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;NCBI、文献来源&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xufA07_AUJWJ9oQqkF4s-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;文献来源、NCBI、BLAST……&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xufA07_AUJWJ9oQqkF4s-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;填入准则&lt;br&gt;（Excelsheet）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -111,6 +111,21 @@
         </mxCell>
         <mxCell id="xufA07_AUJWJ9oQqkF4s-30" value="&lt;font style=&quot;font-size: 18px&quot;&gt;数据展示&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="500" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xufA07_AUJWJ9oQqkF4s-31" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xufA07_AUJWJ9oQqkF4s-4" target="xufA07_AUJWJ9oQqkF4s-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xufA07_AUJWJ9oQqkF4s-32" value="链接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xufA07_AUJWJ9oQqkF4s-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xufA07_AUJWJ9oQqkF4s-34" value="作为工具栏进一步补充" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="170" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
